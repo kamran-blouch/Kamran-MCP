@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "task-manager": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "cwd": "."
+    }
+  }
+}
+
